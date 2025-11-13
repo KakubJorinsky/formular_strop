@@ -35,7 +35,7 @@
                             </svg>
                             <label for="name">Password</label>
                         </div>
-                        <input type="text" placeholder="Enter your password (min 6 characters)">
+                        <input type="password" placeholder="Enter your password (min 6 characters)">
                     </div>
                     <div class="form-main-inputs">
                         <div class="form-main-inputs-label">
@@ -44,7 +44,7 @@
                             </svg>
                             <label for="name">Confirm password</label>
                         </div>
-                        <input type="text" placeholder="Confirm your password">
+                        <input type="password" placeholder="Confirm your password">
                     </div>
                 </div>
                 <div class="form-control">
