@@ -20,16 +20,6 @@ body{
     min-width: 100vh;
 }
 
-body { font-family: Arial, sans-serif; background: #f4f4f4; margin:0; padding:20px; }
-.container { max-width: 500px; margin: auto; background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-input, button { width: 100%; padding: 12px; margin: 10px 0; border: 1px solid #ddd; border-radius: 5px; }
-button { background: #007cba; color: white; font-size: 16px; cursor: pointer; }
-button:hover { background: #005a87; }
-.error { color: red; }
-.success { color: green; }
-.avatar { border-radius: 50%; }
-a { color: #007cba; }
-
 .form{
     display: flex;
     justify-content: center;
